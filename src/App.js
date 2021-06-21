@@ -13,7 +13,7 @@ import FavoriteMovieList from './components/FavoriteMovieList';
 
 const App = props => {
   const displayFavorites = true;
-
+  
   return (
     <div>
       <nav className="navbar navbar-dark bg-dark">
